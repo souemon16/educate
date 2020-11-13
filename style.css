@@ -407,7 +407,7 @@ span{
     font-size: 24px;
 }
 .services .container .service-list p{
-    width: 100%;
+    width: 300px;
 }
 @media (max-width: 415px){
     .services{
